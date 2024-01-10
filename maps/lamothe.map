@@ -21988,28 +21988,28 @@
 {
 "classname" "play_sound_triggered"
 "origin" "-7336 3272 60"
-"noise" "power_switch.wav"
+"noise" "bloodshot/power_switch.wav"
 "targetname" "pssound"
 }
 // entity 1026
 {
 "classname" "play_sound_triggered"
 "origin" "-7688 3288 60"
-"noise" "power_switch.wav"
+"noise" "bloodshot/power_switch.wav"
 "targetname" "pssound"
 }
 // entity 1027
 {
 "classname" "play_sound_triggered"
 "origin" "-7336 3016 60"
-"noise" "power_switch.wav"
+"noise" "bloodshot/power_switch.wav"
 "targetname" "pssound"
 }
 // entity 1028
 {
 "classname" "play_sound_triggered"
 "origin" "-7688 3032 60"
-"noise" "power_switch.wav"
+"noise" "bloodshot/power_switch.wav"
 "targetname" "pssound"
 }
 // entity 1029
