@@ -13,6 +13,10 @@
 "sky" "dusk"
 "_sunlight" "220"
 "_sunlight2" "180"
+"_sunlight_color" "255 215 185"
+"fog_color" "172 138 0"
+"fog_density" "0.05"
+"skyfog_density" "0.1"
 // brush 0
 {
 ( -352 -64 -16 ) ( -352 -63 -16 ) ( -352 -64 -15 ) lab1_floor4 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
