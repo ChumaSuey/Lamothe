@@ -2,9 +2,7 @@
 
 Map for Quake's mod Alkaline 1.2.1b.
 
-What's the necessary to play?
-the map is shipped with the pak files and custom files.
-Put the Alk folder in your Quake sourceport of preference, i decided to do this by suggestion of Fabio (bmFbr) since the level is "big".
+What's the necessary to play? the map is shipped with the pak files and custom files. Create a folder (Alk or Alkaline named or your preference) in your Quake sourceport of preference, i decided to do this by suggestion of Fabio (bmFbr) since the level is "big".
 
 ### Author credits
 
