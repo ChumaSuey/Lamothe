@@ -2,7 +2,12 @@
 
 Map for Quake's mod Alkaline 1.2.1b.
 
-What's the necessary to play? the map is shipped with the pak files and custom files. Create a folder (Alk or Alkaline named or your preference) in your Quake sourceport of preference, i decided to do this by suggestion of Fabio (bmFbr) since the level is "big".
+What's the necessary to play? The required version of the Alkaline is already included.
+Simply unzip the download  & drag the "lamothe" folder into your Quake folder. 
+To launch Lamothe, type "game lamothe" in the console, followed by "map lamothe" (no quotations).
+For Ironwail users, you can also access it via the "mods" option in the menu.
+
+Credits to Greenwood for this better written description.
 
 ### Author credits
 
