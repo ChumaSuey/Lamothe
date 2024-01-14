@@ -30,7 +30,7 @@ Special thanks to :
 - iYago (Thanks to him for fixing the HL textures for Quake)
 
 Special thanks to the respective musicians/composers:
-- DevSEb.
+- DEvSEb.
 - Karl Casey @ White bat audio.
 - Idioplex
 
@@ -53,9 +53,9 @@ There are 2 possible bugs :
 - Turrets when dying or being destroyed can have their explosions stay as an image, it kinda fixes itself but yeah, not much to say there, it's beningn
 
 tracks used in chronological order:
-"Hopeless" - DevSEb
+"Hopeless" - DEvSEb
 
-"Concrete" - DevSEb
+"Concrete" - DEvSEb
 
 "Revolt" - Karl Casey
 
